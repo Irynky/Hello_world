@@ -1,2 +1,6 @@
 # Hello_world
-My first attempt at personal github repository 
+
+Here comes the change changers!
+
+My first personal github repository. 
+I like coding in and githubbing.
